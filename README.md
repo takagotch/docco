@@ -1,6 +1,6 @@
 ### docco
 ---
-https://devdocs.io/
+http://ashkenas.com/docco/
 
 ```
 ```
